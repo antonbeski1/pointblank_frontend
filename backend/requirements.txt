@@ -1,0 +1,10 @@
+django
+djangorestframework
+python-dotenv
+psycopg2-binary
+django-cors-headers
+google-generativeai
+marked
+razorpay
+pyjwt
+requests

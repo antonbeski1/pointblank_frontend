@@ -1,0 +1,7 @@
+{
+  "name": "Point.Blank AI Financial Analyst",
+  "description": "A comprehensive stock analysis application that provides historical data visualization, technical analysis, AI-powered forecasts, and the latest news, all driven by the Gemini API. It also includes an image analyzer and a chatbot for enhanced interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
